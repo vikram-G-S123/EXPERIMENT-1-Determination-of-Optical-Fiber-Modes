@@ -13,6 +13,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 4. Fiber Holding Stand  
 5. Opaque Screen  
 
+hii
 ---
 
 
@@ -60,4 +61,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/27619354-8a86-4798-bb5b-eb594afbda93" />
+
 ## Result
+The mode characteristics of a optic fiber is found to be 5 modes.
