@@ -13,7 +13,6 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 4. Fiber Holding Stand  
 5. Opaque Screen  
 
-hii
 ---
 
 
@@ -52,6 +51,11 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 
 ---
+
+## Modes: 
+
+<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/c09019f7-1ece-448e-84da-af02b825ee6e" />
+
 
 
 ## 📊 OBSERVATION AND CALCULATION
